@@ -1,0 +1,5 @@
+<Response>
+<saml:Assertion ID="whatever" IssueInstant="2022-10-30T18:00:00+00:00" Version="2.0">
+     <!-- PLACEHOLDER PASTE HERE YOUR TAMPERED AUTHENTICATION & AUTHORIZATION ELEMENTS FOR THE SP -->
+    </saml:Assertion>
+  </Response>
